@@ -6,7 +6,7 @@ import java.sql.*;
 
 /**
  * SQL sublanguage: DQL (Data Query Language)
- *
+ * e
  * Aggregate functions in SQL are functions which preform operations on multiple rows to produce a single output.
  * For instance, COUNT() is an aggregate function. Count will return the number of rows of data in the result set.
  * So if we query a table with 12 rows using a statement like this:
